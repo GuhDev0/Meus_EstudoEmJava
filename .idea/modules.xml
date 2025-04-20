@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotina/Dia_7_PJ_SISTEMA_DE_NOTAS/Dia_7_PJ_SISTEMA_DE_NOTAS.iml" filepath="$PROJECT_DIR$/Rotina/Dia_7_PJ_SISTEMA_DE_NOTAS/Dia_7_PJ_SISTEMA_DE_NOTAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudoJava.iml" filepath="$PROJECT_DIR$/EstudoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/Game/Game.iml" filepath="$PROJECT_DIR$/exercicios/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/POO/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/JogoDeAdivinha/JogoDeAdivinha.iml" filepath="$PROJECT_DIR$/exercicios/JogoDeAdivinha/JogoDeAdivinha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/List/List.iml" filepath="$PROJECT_DIR$/exercicios/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/listaDeAtendimento/ListaAtendimentoVIP/ListaAtendimentoVIP.iml" filepath="$PROJECT_DIR$/exercicios/listaDeAtendimento/ListaAtendimentoVIP/ListaAtendimentoVIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/ListaComObjetos/ListaComObjetos.iml" filepath="$PROJECT_DIR$/exercicios/ListaComObjetos/ListaComObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/ManipularData/ManipularData.iml" filepath="$PROJECT_DIR$/exercicios/ManipularData/ManipularData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ObjetoLutado/ObjetoLutado.iml" filepath="$PROJECT_DIR$/POO/ObjetoLutado/ObjetoLutado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/PraticandoArray/PraticandoArray.iml" filepath="$PROJECT_DIR$/exercicios/PraticandoArray/PraticandoArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotina/Rotina.iml" filepath="$PROJECT_DIR$/Rotina/Rotina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/Sistema-de-Cadastro-de-livros/Sistema-de-Cadastro-de-livros.iml" filepath="$PROJECT_DIR$/exercicios/Sistema-de-Cadastro-de-livros/Sistema-de-Cadastro-de-livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio/Sistema-deControle-de-Estoque-para-uma-Loja-de-Games/Sistema-deControle-de-Estoque-para-uma-Loja-de-Games.iml" filepath="$PROJECT_DIR$/Desafio/Sistema-deControle-de-Estoque-para-uma-Loja-de-Games/Sistema-deControle-de-Estoque-para-uma-Loja-de-Games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/VerificarSenhaForte/VerificarSenhaForte.iml" filepath="$PROJECT_DIR$/exercicios/VerificarSenhaForte/VerificarSenhaForte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/calculadoraSimplesComMetodos/calculadoraSimplesComMetodos.iml" filepath="$PROJECT_DIR$/exercicios/calculadoraSimplesComMetodos/calculadoraSimplesComMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/listaDeAtendimento/listaDeAtendimento.iml" filepath="$PROJECT_DIR$/exercicios/listaDeAtendimento/listaDeAtendimento.iml" />
+    </modules>
+  </component>
+</project>
