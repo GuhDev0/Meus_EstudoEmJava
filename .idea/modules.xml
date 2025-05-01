@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/EstudoJava.iml" filepath="$PROJECT_DIR$/EstudoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/Game/Game.iml" filepath="$PROJECT_DIR$/exercicios/Game/Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/POO/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Heranca/Heranca-Part_2/Heranca-Part_2.iml" filepath="$PROJECT_DIR$/POO/Heranca/Heranca-Part_2/Heranca-Part_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/JogoDeAdivinha/JogoDeAdivinha.iml" filepath="$PROJECT_DIR$/exercicios/JogoDeAdivinha/JogoDeAdivinha.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/List/List.iml" filepath="$PROJECT_DIR$/exercicios/List/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/listaDeAtendimento/ListaAtendimentoVIP/ListaAtendimentoVIP.iml" filepath="$PROJECT_DIR$/exercicios/listaDeAtendimento/ListaAtendimentoVIP/ListaAtendimentoVIP.iml" />
@@ -20,7 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios/VerificarSenhaForte/VerificarSenhaForte.iml" filepath="$PROJECT_DIR$/exercicios/VerificarSenhaForte/VerificarSenhaForte.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/calculadoraSimplesComMetodos/calculadoraSimplesComMetodos.iml" filepath="$PROJECT_DIR$/exercicios/calculadoraSimplesComMetodos/calculadoraSimplesComMetodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotina/tratamento_de_excecoes/exercise_practicing/exercise_practicing.iml" filepath="$PROJECT_DIR$/Rotina/tratamento_de_excecoes/exercise_practicing/exercise_practicing.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/listaDeAtendimento/listaDeAtendimento.iml" filepath="$PROJECT_DIR$/exercicios/listaDeAtendimento/listaDeAtendimento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotina/tratamento_de_excecoes/tratamento_de_excecoes.iml" filepath="$PROJECT_DIR$/Rotina/tratamento_de_excecoes/tratamento_de_excecoes.iml" />
     </modules>
   </component>
 </project>
